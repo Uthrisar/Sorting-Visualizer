@@ -36,6 +36,7 @@ Useful links discribing the algorithms used
 - [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort)
 - [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
+- [Heap Sort](https://en.wikipedia.org/wiki/Heapsort)
 
 
 [Back To The Top](#read-me-template)
