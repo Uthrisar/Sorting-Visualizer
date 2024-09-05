@@ -1,6 +1,6 @@
 # Sorting Visualizer
 
-![Project Image](https://github.com/Uthrisar/Sorting-Visualizer/blob/master/image/gif.gif)
+![Project Image](https://github.com/Uthrisar/Sorting-Visualizer/blob/main/image/gif.gif)
 
 ---
 
